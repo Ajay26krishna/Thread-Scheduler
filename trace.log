@@ -1,0 +1,7 @@
+trace.gdb:12: Error in sourced command file:
+Argument required (one or more breakpoint numbers).
+Exception ignored in: <gdb.GdbOutputFile object at 0x7f61e29367b8>
+Traceback (most recent call last):
+  File "/usr/share/gdb/python/gdb/__init__.py", line 43, in flush
+    def flush(self):
+KeyboardInterrupt
